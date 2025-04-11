@@ -2,7 +2,7 @@
 
 A modern, responsive web application for generating and managing multiple barcodes simultaneously. Built with React and styled with Tailwind CSS.
 
-![Barcode Generator Demo](https://images.unsplash.com/photo-1617791160505-6f00504e3519?auto=format&fit=crop&q=80&w=1000)
+![Barcode Generator Demo](https://res.cloudinary.com/day0qlfda/image/upload/v1744368533/quyaisnjljzch97kknfd.png)
 
 ## 🌐 Live Demo
 
